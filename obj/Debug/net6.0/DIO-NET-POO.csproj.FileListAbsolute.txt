@@ -1,0 +1,15 @@
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\bin\Debug\net6.0\DIO-NET-POO.exe
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\bin\Debug\net6.0\DIO-NET-POO.deps.json
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\bin\Debug\net6.0\DIO-NET-POO.runtimeconfig.json
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\bin\Debug\net6.0\DIO-NET-POO.dll
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\bin\Debug\net6.0\DIO-NET-POO.pdb
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.csproj.AssemblyReference.cache
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.AssemblyInfoInputs.cache
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.AssemblyInfo.cs
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.csproj.CoreCompileInputs.cache
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.dll
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\refint\DIO-NET-POO.dll
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.pdb
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\DIO-NET-POO.genruntimeconfig.cache
+C:\Users\teo-s\Documents\Documentos\GitHub\DIO-NET-POO\obj\Debug\net6.0\ref\DIO-NET-POO.dll
